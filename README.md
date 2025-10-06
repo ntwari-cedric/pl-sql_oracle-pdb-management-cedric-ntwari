@@ -42,4 +42,17 @@ task, dropping the ce_to_delete_pdb_28228 database.
 ![delete pdb](https://github.com/ntwari-cedric/pl-sql_oracle-pdb-management-cedric-ntwari/blob/main/work2(delete).png).
 
 # task3: 
+![eml](https://github.com/ntwari-cedric/pl-sql_oracle-pdb-management-cedric-ntwari/blob/main/004%20og.png).
 
+The Oracle Enterprise Manager dashboard confirms the successful visual verification 
+required for Task 3, showing both CE_PDB_28228 actively being monitored
+
+## Conclusion  
+In conclusion, this assignment's objectives for Oracle Pluggable Database (PDB) management were 
+successfully executed and verified. Task 1 involved the creation of the persistent PDB, 
+ce_pdb_28228, along with its dedicated administrative user, cedric_plsqlauca_28228. Task 2 
+successfully demonstrated the PDB lifecycle by creating and then safely dropping the temporary 
+database ce_to_delete_pdb_28228. The full operational status and verification of these tasks 
+were confirmed via the Oracle Enterprise Manager (OEM) dashboard provided in Task 3. For 
+complete transparency, all steps, scripts, and supporting files used during this assignment have been 
+archived and are available above 
