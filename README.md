@@ -26,3 +26,9 @@ Enterprise Manager. I then verified that it was created successfully.
 
 Finally, I checked that the user was also created correctly. This completes Task 1. 
 ![check if all clear](https://github.com/ntwari-cedric/pl-sql_oracle-pdb-management-cedric-ntwari/blob/main/work1%20(open).png).
+
+# Task 2: Create and Delete a PDB 
+This task involved creating a PDB for the specific purpose of practicing the deletion process. 
+First, I created the pluggable database named ce_to_delete_pdb_28228, following the 
+specified format.
+
