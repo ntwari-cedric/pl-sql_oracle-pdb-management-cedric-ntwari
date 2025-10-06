@@ -19,3 +19,6 @@ I used cmd to connect to my Oracle database using SQL*Plus. After connecting, I 
 1 by creating a pluggable database named ce_pdb_28228. The admin user I created for this 
 PDB is Cedric_plsqlauca_28228, following the specified format. 
 ![database creation](https://github.com/ntwari-cedric/pl-sql_oracle-pdb-management-cedric-ntwari/blob/main/work%201%20(creat).png).
+
+After creating it, I opened the PDB, as it will be needed in Task 3 to be displayed in Oracle 
+Enterprise Manager. I then verified that it was created successfully. 
