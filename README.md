@@ -1,9 +1,9 @@
 # pl-sql_oracle-pdb-management-cedric-ntwari
-Name: Ntwari Cedric 
-Student ID: 28228 
-Date: 06 October 2025  
-Instructor: Eric Maniraguha 
-courses: Database development with PL/SQL  
+# Name: Ntwari Cedric 
+# Student ID: 28228 
+# Date: 06 October 2025  
+# Instructor: Eric Maniraguha 
+# courses: Database development with PL/SQL  
 
 # 1. Overview of Tasks 
 
