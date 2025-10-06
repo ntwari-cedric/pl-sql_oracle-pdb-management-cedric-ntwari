@@ -31,4 +31,15 @@ Finally, I checked that the user was also created correctly. This completes Task
 This task involved creating a PDB for the specific purpose of practicing the deletion process. 
 First, I created the pluggable database named ce_to_delete_pdb_28228, following the 
 specified format.
+![create pdb](https://github.com/ntwari-cedric/pl-sql_oracle-pdb-management-cedric-ntwari/blob/main/work2(create).png).
+
+After creating the PDB, the next step was to verify that it was created successfully. Before 
+go to the next step
+![check pdb](https://github.com/ntwari-cedric/pl-sql_oracle-pdb-management-cedric-ntwari/blob/main/work2(%20check).png).
+
+With the PDB successfully created and verified, I proceeded to the deletion phase of the 
+task, dropping the ce_to_delete_pdb_28228 database. 
+![delete pdb](https://github.com/ntwari-cedric/pl-sql_oracle-pdb-management-cedric-ntwari/blob/main/work2(delete).png).
+
+# task3: 
 
