@@ -45,7 +45,9 @@ task, dropping the ce_to_delete_pdb_28228 database.
 ![eml](https://github.com/ntwari-cedric/pl-sql_oracle-pdb-management-cedric-ntwari/blob/main/004%20og.png).
 
 The Oracle Enterprise Manager dashboard confirms the successful visual verification 
-required for Task 3, showing both CE_PDB_28228 actively being monitored
+required for Task 3, showing CE_PDB_28228 actively being monitored and we are not getting the pdb colled
+ce_to_delete_pdb_28228 becouses after creating it we delete that why we are not getting it on enterprise 
+manager dashboard
 
 ## Conclusion  
 In conclusion, this assignment's objectives for Oracle Pluggable Database (PDB) management were 
